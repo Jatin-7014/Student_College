@@ -1,0 +1,28 @@
+D:\C#\StudentCollege\bin\Debug\net8.0\StudentCollege.exe
+D:\C#\StudentCollege\bin\Debug\net8.0\StudentCollege.deps.json
+D:\C#\StudentCollege\bin\Debug\net8.0\StudentCollege.runtimeconfig.json
+D:\C#\StudentCollege\bin\Debug\net8.0\StudentCollege.dll
+D:\C#\StudentCollege\bin\Debug\net8.0\StudentCollege.pdb
+D:\C#\StudentCollege\obj\Debug\net8.0\StudentCollege.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\StudentCollege\obj\Debug\net8.0\StudentCollege.AssemblyInfoInputs.cache
+D:\C#\StudentCollege\obj\Debug\net8.0\StudentCollege.AssemblyInfo.cs
+D:\C#\StudentCollege\obj\Debug\net8.0\StudentCollege.csproj.CoreCompileInputs.cache
+D:\C#\StudentCollege\obj\Debug\net8.0\StudentCollege.dll
+D:\C#\StudentCollege\obj\Debug\net8.0\refint\StudentCollege.dll
+D:\C#\StudentCollege\obj\Debug\net8.0\StudentCollege.pdb
+D:\C#\StudentCollege\obj\Debug\net8.0\StudentCollege.genruntimeconfig.cache
+D:\C#\StudentCollege\obj\Debug\net8.0\ref\StudentCollege.dll
+D:\C# github\Student_College\bin\Debug\net8.0\StudentCollege.exe
+D:\C# github\Student_College\bin\Debug\net8.0\StudentCollege.deps.json
+D:\C# github\Student_College\bin\Debug\net8.0\StudentCollege.runtimeconfig.json
+D:\C# github\Student_College\bin\Debug\net8.0\StudentCollege.dll
+D:\C# github\Student_College\bin\Debug\net8.0\StudentCollege.pdb
+D:\C# github\Student_College\obj\Debug\net8.0\StudentCollege.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# github\Student_College\obj\Debug\net8.0\StudentCollege.AssemblyInfoInputs.cache
+D:\C# github\Student_College\obj\Debug\net8.0\StudentCollege.AssemblyInfo.cs
+D:\C# github\Student_College\obj\Debug\net8.0\StudentCollege.csproj.CoreCompileInputs.cache
+D:\C# github\Student_College\obj\Debug\net8.0\StudentCollege.dll
+D:\C# github\Student_College\obj\Debug\net8.0\refint\StudentCollege.dll
+D:\C# github\Student_College\obj\Debug\net8.0\StudentCollege.pdb
+D:\C# github\Student_College\obj\Debug\net8.0\StudentCollege.genruntimeconfig.cache
+D:\C# github\Student_College\obj\Debug\net8.0\ref\StudentCollege.dll
